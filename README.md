@@ -5,8 +5,6 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lanmacx/)
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lanmacx)
 
-[![Lanmacx GitHub stats](https://github-readme-stats.vercel.app/api?username=lanmacx)](https://github.com/lanmacx/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanmacx&layout=compact)
 
 
