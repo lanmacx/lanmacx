@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lanmacx/)
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lanmacx)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanmacx&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanmacx)](https://github.com/lanmacx/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
